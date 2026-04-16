@@ -8,7 +8,7 @@ title: Оглавление и навигация в документе
 **Главное правило!**
 
 Все заголовки вашего документа должны быть заданы с помощью стилей Заголовок 1, Заголовок 2 и т.д.\
-См. [Шаблон документа и стили](http://tauri.localhost/gitlab.docflow.academy/gramax/programs/main/-/microsoft-word/shablon-dokumenta-i-stili)
+См. [Шаблон документа и стили](./shablon-dokumenta-i-stili)
 
 :::
 
